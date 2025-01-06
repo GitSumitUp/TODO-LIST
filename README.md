@@ -17,7 +17,7 @@ pip install -r requirements.txt
 Apply migrations:
 python manage.py migrate
 
-Run the server:
+Run the server:  
 python manage.py runserver
 
 Access the application at http://127.0.0.1:8000/.
